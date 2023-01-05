@@ -21,6 +21,7 @@ sh-3.2# cat com.user.loginscript.plist
 </dict>
 </plist>
 
+
 sh-3.2# ls -la com.user.loginscript.plist
 -rw-r--r--  1 root  wheel  377  8 lis 22:57 com.user.loginscript.plist
 
